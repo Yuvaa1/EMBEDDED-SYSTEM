@@ -1,0 +1,50 @@
+Traceback (most recent call last):
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 358, in <module>
+    main()
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 327, in main
+    target = ParttoolTarget(**target_args)
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 97, in __init__
+    partition_table = gen.PartitionTable.from_csv(f.read())
+  File "C:\Users\YUVA\esp\esp-idf\components\partition_table\gen_esp32part.py", line 195, in from_csv
+    raise InputError('CSV Error: First partition offset 0x%x overlaps end of partition table 0x%x'
+gen_esp32part.InputError: CSV Error: First partition offset 0x9000 overlaps end of partition table 0x11000
+Traceback (most recent call last):
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 358, in <module>
+    main()
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 327, in main
+    target = ParttoolTarget(**target_args)
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 97, in __init__
+    partition_table = gen.PartitionTable.from_csv(f.read())
+  File "C:\Users\YUVA\esp\esp-idf\components\partition_table\gen_esp32part.py", line 195, in from_csv
+    raise InputError('CSV Error: First partition offset 0x%x overlaps end of partition table 0x%x'
+gen_esp32part.InputError: CSV Error: First partition offset 0x9000 overlaps end of partition table 0x11000
+Traceback (most recent call last):
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 358, in <module>
+    main()
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 327, in main
+    target = ParttoolTarget(**target_args)
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 97, in __init__
+    partition_table = gen.PartitionTable.from_csv(f.read())
+  File "C:\Users\YUVA\esp\esp-idf\components\partition_table\gen_esp32part.py", line 195, in from_csv
+    raise InputError('CSV Error: First partition offset 0x%x overlaps end of partition table 0x%x'
+gen_esp32part.InputError: CSV Error: First partition offset 0x9000 overlaps end of partition table 0x11000
+Traceback (most recent call last):
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 358, in <module>
+    main()
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 327, in main
+    target = ParttoolTarget(**target_args)
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 97, in __init__
+    partition_table = gen.PartitionTable.from_csv(f.read())
+  File "C:\Users\YUVA\esp\esp-idf\components\partition_table\gen_esp32part.py", line 195, in from_csv
+    raise InputError('CSV Error: First partition offset 0x%x overlaps end of partition table 0x%x'
+gen_esp32part.InputError: CSV Error: First partition offset 0x9000 overlaps end of partition table 0x11000
+Traceback (most recent call last):
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 358, in <module>
+    main()
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 327, in main
+    target = ParttoolTarget(**target_args)
+  File "C:/Users/YUVA/esp/esp-idf/components/partition_table/parttool.py", line 97, in __init__
+    partition_table = gen.PartitionTable.from_csv(f.read())
+  File "C:\Users\YUVA\esp\esp-idf\components\partition_table\gen_esp32part.py", line 195, in from_csv
+    raise InputError('CSV Error: First partition offset 0x%x overlaps end of partition table 0x%x'
+gen_esp32part.InputError: CSV Error: First partition offset 0x9000 overlaps end of partition table 0x11000
